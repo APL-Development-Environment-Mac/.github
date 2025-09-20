@@ -22,7 +22,7 @@ Optimized for **macOS Ventura, Sonoma, and newer**, MicroAPL APL runs seamlessly
 
 With support for modern APL dialects and extensions, this IDE facilitates a productive coding experience, helping users leverage the full potential of array programming for scientific computing and analytical applications.
 
-![MicroAPL APL Interface](https://microapl.com/images/quicksym1.jpg)
+![MicroAPL APL Interface](https://www.shortkeys.com/wp-content/uploads/2020/05/Symbols.png)
 
 ---
 
